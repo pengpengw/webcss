@@ -1,0 +1,39 @@
+.style_white12 {
+	COLOR: #ffffff; FONT-SIZE: 12px
+}
+.style_mail {
+	COLOR: #000000; FONT-SIZE: 12px
+}
+.style_small {
+	COLOR: #555555; FONT-SIZE: 12px
+}
+.style_middle {
+	COLOR: #555555; FONT-SIZE: 13px
+}
+.style_big {
+	COLOR: #ffffff; FONT-SIZE: 14px
+}
+.style_huge {
+	FONT-FAMILY: "»ªÎÄÖÐËÎ"; COLOR: #555555; FONT-SIZE: 21px
+}
+.style_txt {
+	TEXT-ALIGN: left; LINE-HEIGHT: 150%; TEXT-INDENT: 28px; FONT-SIZE: 14px
+}
+A:link {
+	COLOR: #222222; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #333333; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #000000; TEXT-DECORATION: underline
+}
+A:hover {
+	COLOR: #000000; TEXT-DECORATION: underline
+}
+BODY {
+	MARGIN: 0px; BACKGROUND: url(images/main_bg.gif) repeat-x
+}
+.k {
+	BORDER-BOTTOM: #000000 1px solid; BORDER-LEFT: #000000 1px solid; BORDER-TOP: #000000 1px solid; BORDER-RIGHT: #000000 1px solid
+}
